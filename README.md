@@ -74,7 +74,7 @@ The project is structured into three difficulty levels:
 
 ## 📂 Project Files
 
-- `Music_Store_database.sql` → Database schema & data
+- `Music_Store_database(1).sql` → Database schema & data
 - `Music_Store_Query.sql` → All SQL solutions
 - `README.md` → Project documentation
 
